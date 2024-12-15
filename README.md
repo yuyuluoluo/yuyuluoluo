@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Keep learning, keep growing, believe in yourself, and you will succeed
 <!--
 **yuyuluoluo/yuyuluoluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
